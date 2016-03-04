@@ -1,0 +1,1 @@
+bind CS-Return "urxvt -tr +sb -fg green"
