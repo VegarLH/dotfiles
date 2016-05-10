@@ -32,7 +32,7 @@ umask 022
 PKG_PATH=http://ftp.fr.openbsd.org/pub/OpenBSD/snapshots/packages/$(uname -m)
 CVSROOT=anoncvs@anoncvs.vegarlh.com:/cvs
 
-EDITOR="emacs"
+EDITOR="mg"
 alias em='emacs'
 
 HISTFILE="$HOME/.sh_history"
