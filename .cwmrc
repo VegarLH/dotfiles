@@ -1,1 +1,2 @@
-bind CS-Return "urxvt -ls -tr +sb -fg green"
+bind-key CS-Return      "xterm -ls +sb -fg green -bg black"
+bind-key 4-l            "xlock -mode blank -geometry 0x0"
