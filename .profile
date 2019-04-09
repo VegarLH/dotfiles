@@ -22,7 +22,7 @@ local Light_Purple="\[\033[1;35m\]"
 local        Brown="\[\033[0;33m\]"
 local bg1="\\33[44M"
 
-export PS1="$LIGHT_GREEN\n[ \u@\h _- $YELLOW\w$LIGHT_GREEN -_ \t \d ]\n\\$ $NO_COLOUR"
+export PS1="$LIGHT_GREEN\n[ \u@\h - $YELLOW\w$LIGHT_GREEN - \t \d ]\n\\$ $NO_COLOUR"
 }
 
 PS1set
