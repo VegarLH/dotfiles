@@ -29,7 +29,7 @@ PS1set
 
 umask 022
 
-PKG_PATH=http://ftp.fr.openbsd.org/pub/OpenBSD/snapshots/packages/$(uname -m)
+PKG_PATH=https://cdn.openbsd.org/pub/OpenBSD/snapshots/packages/$(uname -m)
 CVSROOT=anoncvs@anoncvs.vegarlh.com:/cvs
 
 EDITOR="mg"
